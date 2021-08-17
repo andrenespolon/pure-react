@@ -1,0 +1,10 @@
+{
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "useTabs": true,
+  "semi": true,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "proseWrap": "always",
+  "parser": "babel"
+}

@@ -1,0 +1,10 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+div.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
